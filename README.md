@@ -26,9 +26,9 @@ set up db (.env)
 <br>
 `npm install && npm run dev` 
 <br><br>
-* for small changes run `npm run dev` - remember to refresh your browser 
+(for small changes run `npm run dev` - remember to refresh your browser 
 <br>
-* use `npm run watch` when you start working on your css to continually update without having to `run dev` each time you change some css. 
+use `npm run watch` when you start working on your css to continually update without having to `run dev` each time you change some css.) 
 <br><br>
 `php artisan key:generate` 
 <br>
