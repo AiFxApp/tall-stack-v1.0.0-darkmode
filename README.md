@@ -9,6 +9,7 @@
 
 * Auth: login/register
 * Debug Bar by Barryvdh <a href="https://github.com/barryvdh/laravel-debugbar">
+* AND a few components added to the build for your coding pleasure 😁♾️
 
 # Dark Mode Added to Build
 * see `dark-mode-set up guide.md` on a working method I used -- happy to share these notes. 
