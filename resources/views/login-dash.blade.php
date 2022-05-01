@@ -28,9 +28,11 @@
         <!--Features1 - AIFX -->
         <x-features1></x-features1>
 
+        <!--CoolCard - AIFX-->
+        <x-cool-card></x-cool-card>
+
         <!--Mobile Application Advert - AIFX-->
         <x-mobile-advert></x-mobile-advert>
-
 
         <!-- PRICING CARDS - AIFX -->
         <x-pricing-cards></x-pricing-cards>
