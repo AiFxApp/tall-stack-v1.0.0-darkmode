@@ -1,4 +1,4 @@
-<section class="relative pt-20 2xl:pt-40">
+<section class="relative mt-10 mb-10 pt-20 2xl:pt-40">
     <div class="container px-4 mx-auto mb-16 md:mb-24">
         <div class="text-center">
             <h2 class="mb-8 text-6xl 2xl:text-7xl font-bold font-heading text-dark dark:text-std hover:text-hover dark:hover:text-hover">Collaborate everywhere.</h2>

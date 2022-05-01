@@ -28,14 +28,29 @@
         <!--Features1 - AIFX -->
         <x-features1></x-features1>
 
+        <!--Services Cards - AIFX -->
+        <x-services-cards></x-services-cards>
+
         <!--Hover Cards - AIFX -->
         <x-hover-card></x-hover-card>
 
         <!--CoolCard - AIFX-->
         <x-cool-card></x-cool-card>
 
+        <!--Blog Cards - AIFX-->
+        <x-blog-cards></x-blog-cards>
+
+        <!-- Responsive Grid Layout -->
+        <x-responsive-grid></x-responsive-grid>
+
         <!--Mobile Application Advert - AIFX-->
         <x-mobile-advert></x-mobile-advert>
+
+        <!--Testimonials Different - AIFX-->
+        <x-testimonials-different></x-testimonials-different>
+
+        <!-- Subscribe Offer With Card Effect-->
+        <x-subscribe-offer></x-subscribe-offer>
 
         <!-- PRICING CARDS - AIFX -->
         <x-pricing-cards></x-pricing-cards>
@@ -43,6 +58,8 @@
         <x-tall-stack></x-tall-stack>
 
     </div>
+    <!-- More Complete Footer - work on the gradient - tailwin.config colours AIFX -->
+    <x-footer-gradient></x-footer-gradient>
 
     <x-footer></x-footer>
 
