@@ -14,10 +14,9 @@
                 <x-tall-stack></x-tall-stack>
             </div>
         </div>
+        <x-signin-cta></x-signin-cta>
+        
+        <x-footer></x-footer>
     </div>
-
-    <x-signin-cta></x-signin-cta>
-
-    <x-footer></x-footer>
 
 @endsection
