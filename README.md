@@ -22,14 +22,24 @@ After you have the repo
 
 set up db (.env)
 
-`composer update` <br>
-`npm install && npm run dev` <br>
-for small changes run `npm run dev` - remember to refresh your browser <br>
-use `npm run watch` when you start working on your css to continually update without having to `run dev` each time you change some css. <br>
-`php artisan key:generate` <br>
-`php artisan storage:link` <br>
-`php artisan migrate --seed` <br>
-`php artisan serve` <br>
+`composer update` 
+<br>
+`npm install && npm run dev` 
+<br>
+for small changes run `npm run dev` - remember to refresh your browser 
+<br>
+use `npm run watch` when you start working on your css to continually update without having to `run dev` each time you change some css. 
+<br>
+`php artisan key:generate` 
+<br>
+`php artisan storage:link` 
+<br>
+`php artisan migrate` 
+<br>
+No Admin Seeder added - so go ahead and register then login. 
+<br>
+`php artisan serve` 
+<br>
     
  If you like this build - please give me a ⭐
 
