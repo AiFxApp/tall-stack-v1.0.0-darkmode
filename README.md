@@ -1,15 +1,19 @@
 ## LARAVEL - TALL STACK
 <h1>Technology Used In This Build</h1>
-<a href="https://tailwindcss.com">Tailwind CSS</a> <br>
-<a href="https://github.com/alpinejs/alpine">Alpine.js</a>  <br>
-<a href="https://laravel.com">Laravel</a>  <br>
-<a href="https://laravel-livewire.com">Livewire</a>  <br>
+<a href="https://tailwindcss.com">Tailwind CSS</a> 
+<br>
+<a href="https://github.com/alpinejs/alpine">Alpine.js</a> 
+<br>
+<a href="https://laravel.com">Laravel</a> 
+<br>
+<a href="https://laravel-livewire.com">Livewire</a> 
+<br>
 <br>
 <hr>
 
 * Auth: login/register
-* Debug Bar by Barryvdh <a href="https://github.com/barryvdh/laravel-debugbar">
-* AND a few components added to the build for your coding pleasure 😁♾️
+* <a href="https://github.com/barryvdh/laravel-debugbar"> Debug Bar by Barryvdh </a>
+* <a href="https://github.com/AiFxApp"> AND a few components added to the build for your coding pleasure </a> 😁♾️
 
 # Dark Mode Added to Build
 * see `dark-mode-set up guide.md` on a working method I used -- happy to share these notes. 
