@@ -1,6 +1,6 @@
 
 <!-- Section 1 -->
-<section class="mt-5 py-20 bg-std dark:bg-std">
+<section class="mt-5 mb-5 py-20 bg-std dark:bg-std">
     <div class="px-4 mx-auto text-center max-w-7xl sm:px-6 lg:px-8">
         <h2 class="text-3xl font-extrabold tracking-tight text-gray-900 sm:text-4xl md:text-5xl xl:text-6xl">
             The New Standard for Design
