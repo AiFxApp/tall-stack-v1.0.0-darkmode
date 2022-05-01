@@ -28,6 +28,9 @@
         <!--Features1 - AIFX -->
         <x-features1></x-features1>
 
+        <!--Hover Cards - AIFX -->
+        <x-hover-card></x-hover-card>
+
         <!--CoolCard - AIFX-->
         <x-cool-card></x-cool-card>
 
