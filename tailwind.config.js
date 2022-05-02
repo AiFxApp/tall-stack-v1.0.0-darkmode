@@ -1,41 +1,41 @@
-const defaultTheme = require('tailwindcss/defaultTheme');
+const defaultTheme = require("tailwindcss/defaultTheme");
 
 module.exports = {
-    darkMode: 'class',
+    darkMode: "class",
     theme: {
         extend: {
             fontFamily: {
-                sans: ['Inter var', ...defaultTheme.fontFamily.sans],
+                sans: ["Inter var", ...defaultTheme.fontFamily.sans],
             },
         },
         colors: {
-            dark: '#282828',
-            dark2: '#303030',
-            hover: '#007bff',
-            std: '#ededed',
-            violet: '#7635ff',
-            green: '#27ca01',
-            red: '#ca0101'
-        }
+            dark: "#282828",
+            dark2: "#303030",
+            hover: "#007bff",
+            std: "#ededed",
+            violet: "#7635ff",
+            green: "#27ca01",
+            red: "#ca0101",
+        },
     },
     variants: {
         extend: {
-            backgroundColor: ['active'],
-        }
+            backgroundColor: ["active"],
+        },
     },
     content: [
-        './app/**/*.php',
-        './resources/**/*.html',
-        './resources/**/*.js',
-        './resources/**/*.jsx',
-        './resources/**/*.ts',
-        './resources/**/*.tsx',
-        './resources/**/*.php',
-        './resources/**/*.vue',
-        './resources/**/*.twig',
+        "./app/**/*.php",
+        "./resources/**/*.html",
+        "./resources/**/*.js",
+        "./resources/**/*.jsx",
+        "./resources/**/*.ts",
+        "./resources/**/*.tsx",
+        "./resources/**/*.php",
+        "./resources/**/*.vue",
+        "./resources/**/*.twig",
     ],
     plugins: [
-        require('@tailwindcss/forms'),
-        require('@tailwindcss/typography'),
+        require("@tailwindcss/forms"),
+        require("@tailwindcss/typography"),
     ],
 };

@@ -1,4 +1,4 @@
-require('./bootstrap');
-import Alpine from 'alpinejs';
+require("./bootstrap");
+import Alpine from "alpinejs";
 window.Alpine = Alpine;
 Alpine.start();

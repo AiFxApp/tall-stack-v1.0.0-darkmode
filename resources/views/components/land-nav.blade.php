@@ -10,7 +10,7 @@
             </button>
         </a>
 
-        <!-- MENU ONLY ACTIVE AFTER LOGGED IN -->
+        <!-- MENU ONLY ACTIVE AFTER LOGGED IN YET THERE IS A POSSIBLE NAV IN THE FOOTER-->
 
 
         <div class="absolute top-0 right-0 mt-8 mr-4">
