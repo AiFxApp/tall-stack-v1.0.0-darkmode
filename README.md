@@ -19,6 +19,8 @@
 -   <a href="https://github.com/AiFxApp"> AND a few components added to the build for your coding pleasure </a> 😁♾️
 -   02.05.2022: tweeking tailwinds with `npm install prettier` to <a href="https://prettier.io/docs/en/install.html"> Enable Automatic Tailwind Class Sorting</a>
 -   04.05.2022 - Added AJAX Image Upload Section 
+-   07.05.2022 - Added DevDojo/Tails (components and Templates) -- Now you have some serious amount of componenets to play with
+  
 
 # Dark Mode Added to Build
 
