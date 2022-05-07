@@ -18,6 +18,7 @@
 -   <a href="https://github.com/barryvdh/laravel-debugbar"> Debug Bar by Barryvdh </a>
 -   <a href="https://github.com/AiFxApp"> AND a few components added to the build for your coding pleasure </a> 😁♾️
 -   02.05.2022: tweeking tailwinds with `npm install prettier` to <a href="https://prettier.io/docs/en/install.html"> Enable Automatic Tailwind Class Sorting</a>
+-   04.05.2022 - Added AJAX Image Upload Section 
 
 # Dark Mode Added to Build
 

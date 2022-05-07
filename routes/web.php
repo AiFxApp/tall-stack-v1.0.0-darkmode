@@ -25,6 +25,7 @@ use App\Http\Controllers\LangController;
 
 Route::view('/', 'welcome')->name('welcome');
 
+
 Route::view('/login-dash', 'login-dash')->name('home');
 
 Route::middleware('guest')->group(function () {
