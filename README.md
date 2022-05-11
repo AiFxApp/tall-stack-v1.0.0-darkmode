@@ -50,3 +50,9 @@ No Admin Seeder added - so go ahead and register then login.
 <br>
 
 If you like this build - please give me a ⭐
+
+This is a preview of the repo - Naturally there are a few things not in the repo:
+Why? Becuase i am going to convert this into my official Website someday soon. 
+![image](https://user-images.githubusercontent.com/89227642/167925105-a8c7d11c-89b6-48fc-b660-07b5e967de7f.png)
+![image](https://user-images.githubusercontent.com/89227642/167925146-f8de0e82-2958-47fd-ab9a-de50c21baa69.png)
+
