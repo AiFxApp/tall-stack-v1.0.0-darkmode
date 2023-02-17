@@ -12,7 +12,7 @@
 <br>
 <hr>
 
-# Addtions to the build
+# Additions to the build
 
 -   Auth: login/register
 -   <a href="https://github.com/barryvdh/laravel-debugbar"> Debug Bar by Barryvdh </a>
