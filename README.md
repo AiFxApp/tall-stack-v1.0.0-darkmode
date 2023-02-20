@@ -22,9 +22,9 @@
 -   07.05.2022 - Added DevDojo/Tails (components and Templates) -- Now you have some serious amount of componenets to play with
   
 
-# Dark Mode Added to Build
+# Dark Mode Added to Build https://github.com/AiFxApp/tall-stack-v1.0.0-darkmode/blob/master/dark-mode-set%20up%20guide.md
 
--   see `dark-mode-set up guide.md` on a working method I used -- happy to share these notes.
+-   see <a href="https://github.com/AiFxApp/tall-stack-v1.0.0-darkmode/blob/master/dark-mode-set%20up%20guide.md">`dark-mode-set up guide.md`</a> on a working method I used -- happy to share these notes.
 
 After you have the repo
 
